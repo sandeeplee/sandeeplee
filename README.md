@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @sandeeplee
 - 👀 I’m a .NET Angular FullStack Developer
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 
+- 💞️ 
+- 📫 Reach out to me at nayak.sandeep786@gmail.com
 
 <!---
 sandeeplee/sandeeplee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
